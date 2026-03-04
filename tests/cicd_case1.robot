@@ -19,3 +19,4 @@ Direct Okta Login And MFA Verification
     VerifyText     Okta Verify
     ClickText      Send Push         timeout=60s   
     VerifyText     My Apps           timeout=15s
+    ClickText      Salesforce APO
